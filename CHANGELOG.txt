@@ -1,0 +1,7 @@
+== Changelog ==
+
+= 1.2 - 2017-07-26 =
+* Dev - Removed custom function and using the Hollerbox hook for controlling the notification based on RCP status
+
+= 1.1 - 2017-06-14 =
+* Feature - Initial release.
